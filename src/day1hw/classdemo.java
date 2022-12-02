@@ -1,6 +1,6 @@
 package day1hw;
 
-    public class classdemo {
+    public class Static Varibles {
         static int x = 10;
         static int y;
 
