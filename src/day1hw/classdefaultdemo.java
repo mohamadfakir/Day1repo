@@ -1,6 +1,6 @@
 package day1hw;
 
-    public class classdefaultdemo {
+    public class Default Value {
         static byte b;
         static short s;
         static int i;
