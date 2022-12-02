@@ -1,4 +1,4 @@
-package day1hw;
+package com.javabasic;
 
     public class CommandLineArgument {
         public static void main (String[]arg){
