@@ -1,4 +1,4 @@
-package day1hw;
+package com.javabasic;
 
     public class Default Value {
         static byte b;
