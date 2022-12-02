@@ -1,6 +1,6 @@
 package day1hw;
 
-    public class staticvoidmain {
+    public class ValidIntegers {
 
         public static void main(String[] arg) {
             int n, cnt = 0, sum = 0;
