@@ -1,4 +1,5 @@
-package day1hw;
+package com.javabasic;
+
 
     public class Static Varibles {
         static int x = 10;
