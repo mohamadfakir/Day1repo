@@ -1,6 +1,6 @@
 package day1hw;
 
-public class stringequality {
+public class TwoStringEqual {
     public static void main(String[]arg){
         String s1= "MOHAMAD";
         String s2="jaid";
