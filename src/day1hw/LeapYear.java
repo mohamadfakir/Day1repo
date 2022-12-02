@@ -3,6 +3,7 @@ package day1hw;
 import java.util.Scanner;
 
 public class LeapYear {
+    
     public static void main(String[] args) {
         System.out.print("Enter the Year: ");
         int year;
